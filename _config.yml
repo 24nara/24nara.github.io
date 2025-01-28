@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 24nara # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 일상에서 바로 활용 가능한 실용적인 정보와 다양한 라이프를 만나보세요! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   일상에서 바로 활용 가능한 실용적인 정보와 다양한 라이프를 만나보세요!
