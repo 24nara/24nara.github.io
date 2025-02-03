@@ -1,7 +1,7 @@
 ---
 title: 수막구균(Neisseria meningitidis)이란? 감염성 질병
 author: bing
-date: 2025-02-02
+date: 2025-02-03
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
